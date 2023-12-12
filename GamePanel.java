@@ -147,7 +147,7 @@ public class GamePanel extends JPanel implements KeyListener{
 	
 	public void run() {
 		
-		playSound(1);//123
+		playSound(1);//1233
 		Thread gameThread = new Thread(new Runnable() {
 		
 			@Override

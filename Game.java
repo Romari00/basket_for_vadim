@@ -5,7 +5,7 @@ import java.awt.event.WindowEvent;
 
 public class Game extends JFrame {//123
     private Image hoop, basketballIcon;
-    private GamePanel gamePanel;
+    private GamePanel gamePanel;//123
 
     public Game(GamePanel gamePanel) {
         this.gamePanel = gamePanel;
